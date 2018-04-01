@@ -4,6 +4,7 @@
     "outDir": "../out-tsc/spec",
     "baseUrl": "./",
     "module": "commonjs",
+    "jsx": "react",
     "types": [
       "jasmine",
       "node"
